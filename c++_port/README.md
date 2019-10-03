@@ -6,7 +6,7 @@
 > A graph in form of a Weight Matrix(A NxN array).
 
 ## Output:
-<img src="https://raw.githubusercontent.com/dav-vendator/routing-algorithm/master/output.png" title="DSDV">
+<img src="https://raw.githubusercontent.com/dav-vendator/routing-algorithm/master/c++_port/output.png" title="DSDV">
 
 ## Explanation of output
 1. **Destination** : Destination to reach
